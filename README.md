@@ -4,7 +4,7 @@ Available themes this jam:
 Theme "Extreme-dancing King"
  * Capoeira King - https://scratch.mit.edu/projects/220891300/ 
 Theme "Cyote Solitude"
- * Rabies Babies (Bouncy Platforme game) - Game made in Unity -
+ * Rabies Babies (Bouncy Platforme game) - Game made in Unity - Download coming "soon"...
  * Rabies Babies (Pac-Maniac shooter) - https://scratch.mit.edu/projects/220773648/
 
 # Rabies Babies backstory (rabies infested Coyote puppies)
