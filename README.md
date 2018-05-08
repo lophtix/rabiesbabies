@@ -2,10 +2,10 @@
 Game Jam experiments created during LiU Spring Jam 2018 http://liugamejam.se/by the game club "Lophtix" https://forening.sverok.se/lophtix 
 Available themes this jam:
 Theme "Extreme-dancing King"
- * Capoeira King - https://scratch.mit.edu/projects/220891300/ 
+ * Capoeira King - https://scratch.mit.edu/projects/220891300/  - Game development platform: https://scratch.mit.edu/
 Theme "Cyote Solitude"
- * Rabies Babies (Bouncy Platforme game) - Game made in Unity - Download coming "soon"...
- * Rabies Babies (Pac-Maniac shooter) - https://scratch.mit.edu/projects/220773648/
+ * Rabies Babies (Bouncy Platform game) - Download coming "soon"... - Game development platform: Unity https://unity3d.com/
+ * Rabies Babies (Pac-Maniac shooter) - https://scratch.mit.edu/projects/220773648/ - Game development platform: https://scratch.mit.edu/
 
 # Rabies Babies backstory (rabies infested Coyote puppies)
 Your coyote partner just died of rabies, but you seem to be immune and now you are left alone non-infected with all your annoyingly rabies-infested puppies that simultaneously want to cuddle and bite you death. You need to find solitude by getting away from the puppies following you...
